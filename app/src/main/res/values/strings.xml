@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">SpinnerCustomizeTemp</string>
+
+    <string-array name="themes_spinner">
+        <item>Default + White</item>
+        <item>Default + Black</item>
+        <item>Default + Blue</item>
+        <item>Default + Red</item>
+        <item>Default + White + without header &amp; footer</item>
+        <item>Default + Black + without header &amp; footer</item>
+        <item>Default + Blue + without header &amp; footer</item>
+        <item>Default + Red + without header &amp; footer</item>
+        <item>Side + White</item>
+        <item>Side + Black</item>
+        <item>Side + Blue</item>
+        <item>Side + Red</item>
+        <item>Side + White + without header &amp; footer</item>
+        <item>Side + Black + without header &amp; footer</item>
+        <item>Side + Blue + without header &amp; footer</item>
+        <item>Side + Red + without header &amp; footer</item>
+        <item>Hover + White</item>
+        <item>Hover + Black</item>
+        <item>Hover + Blue</item>
+        <item>Hover + Red</item>
+        <item>Hover + White + without header &amp; footer</item>
+        <item>Hover + Black + without header &amp; footer</item>
+        <item>Hover + Blue + without header &amp; footer</item>
+        <item>Hover + Red + without header &amp; footer</item>
+    </string-array>
+
+</resources>
