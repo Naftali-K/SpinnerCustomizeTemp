@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="spinner_resume_style">
+        <item name="android:background">@drawable/style_resume_spinner</item>
+        <item name="android:popupBackground">@drawable/style_spinner_popup_bg</item>
+        <item name="android:layout_marginTop">8dp</item>
+        <item name="android:layout_marginStart">16dp</item>
+        <item name="android:layout_marginEnd">16dp</item>
+    </style>
+
+    <style name="spinner_item_style">
+        <item name="android:paddingTop">8dp</item>
+        <item name="android:paddingBottom">8dp</item>
+        <item name="android:paddingStart">10dp</item>
+        <item name="android:paddingEnd">10dp</item>
+        <item name="android:layout_margin">5dp</item>
+        <item name="singleLine">true</item>
+        <item name="android:gravity">start|center</item>
+        <!--        <item name="android:hint">item</item>-->
+    </style>
+</resources>

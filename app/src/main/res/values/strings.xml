@@ -28,4 +28,6 @@
         <item>Hover + Red + without header &amp; footer</item>
     </string-array>
 
+    <string name="_year">Year</string>
+
 </resources>
